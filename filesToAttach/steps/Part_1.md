@@ -1,0 +1,3 @@
+# Part 1:
+
+The data.ts file contains a function called `getStatesData` which takes the name of a country (Canada, US or India) and returns an array of information about the states in that country. Your first task is to use `getStatesData` to render a list of the US states using `StateList.tsx`. You can ignore the Canada and India data for now. Each list item should show the state's name, population, and area in square miles. You will need to fill out the `StateList` component yourself. _You don't need to make the app look nice at this point._
